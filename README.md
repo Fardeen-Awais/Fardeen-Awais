@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardeen-awais&label=Profile%20views&color=0e75b6&style=flat" alt="fardeen-awais" /> </p>
 
-- 🔭 I’m currently working on **my Solo Startup**
+- 🔭 I’m currently working **Solo**
 
 - 📫 How to reach me **fardeenjutt@gmail.com**
 
