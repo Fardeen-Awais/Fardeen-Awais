@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **Solo**
 
-- 📫 How to reach me **fardeenjutt@gmail.com**
+- 📫 How to reach me **fardeen@houseofstartup.com**
 
 - ⚡ Fun fact **I am self learned developer**
 
